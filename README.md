@@ -1,5 +1,5 @@
 # intrado-assignmentA
-Test Assignment-A
+
 ## Description
 
 The following application will.
